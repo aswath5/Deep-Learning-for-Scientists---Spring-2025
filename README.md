@@ -1,5 +1,4 @@
-# NeuralNetworks
-## 📘 CMU 09616: Deep Learning for Scientists - Spring 2025
+# 📘 CMU 09616: Deep Learning for Scientists - Spring 2025
 
 This repository contains my submissions for the homeworks in CMU 09616 (Deep Learning for Scientists), Spring 2025. Each homework showcases a different neural architecture applied to real-world scientific data problems.
 
